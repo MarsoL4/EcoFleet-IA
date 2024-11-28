@@ -1,0 +1,85 @@
+Categoria,Marca,Modelo,Versão,Motor,Tipo_Propulsao,Combustivel,Emissoes_Escapamento,Consumo_Energetico_MJ_km,Autonomia_Eletrico_km,Classificacao_PBE
+Médio,CHEVROLET,BOLT,LT,Elétrico,Elétrico,E,,0.48,390.0,A
+Médio,CHEVROLET,BOLT,PREMIER,Elétrico,Elétrico,E,,0.48,390.0,A
+Médio,CHEVROLET,BOLT EUV,PREMIER,Elétrico,Elétrico,E,,0.48,377.0,A
+Médio,CHEVROLET,ONIX,10MT HB,1.0 - 12 V,Combustão,F,43.0,1.46,,A
+Médio,CHEVROLET,ONIX,10MT LT1,1.0 - 12 V,Combustão,F,43.0,1.46,,A
+Médio,CHEVROLET,ONIX,10MT LT2,1.0 - 12 V,Combustão,F,43.0,1.46,,A
+Médio,CHEVROLET,ONIX,10TAT RS,1.0T - 12 V,Combustão,F,41.0,1.71,,C
+Médio,CHEVROLET,ONIX,10TAT HB,1.0T - 12 V,Combustão,F,42.0,1.66,,B
+Médio,CHEVROLET,ONIX,10TAT LT1,1.0T - 12 V,Combustão,F,42.0,1.66,,B
+Médio,CHEVROLET,ONIX,10TAT LTZ,1.0T - 12 V,Combustão,F,42.0,1.66,,B
+Médio,CHEVROLET,ONIX,10TAT PR2,1.0T - 12 V,Combustão,F,42.0,1.66,,B
+Médio,CHEVROLET,ONIX,10TMT LT1,1.0T - 12 V,Combustão,F,52.0,1.5,,A
+Médio,CHEVROLET,ONIX,10TMT LTZ,1.0T - 12 V,Combustão,F,52.0,1.5,,A
+Médio,CHEVROLET,ONIX PLUS,10MT LT1,1.0 - 12 V,Combustão,F,35.0,1.42,,A
+Médio,CHEVROLET,ONIX PLUS,10MT LT2,1.0 - 12 V,Combustão,F,35.0,1.42,,A
+Médio,CHEVROLET,ONIX PLUS,10TAT NB,1.0T - 12 V,Combustão,F,42.0,1.58,,B
+Médio,CHEVROLET,ONIX PLUS,10TAT LT1,1.0T - 12 V,Combustão,F,42.0,1.58,,B
+Médio,CHEVROLET,ONIX PLUS,10TAT LTZ,1.0T - 12 V,Combustão,F,42.0,1.58,,B
+Médio,CHEVROLET,ONIX PLUS,10TAT PR2,1.0T - 12 V,Combustão,F,42.0,1.58,,B
+Médio,CHEVROLET,ONIX PLUS,10TMT LT1,1.0T - 12 V,Combustão,F,46.0,1.44,,A
+Médio,CHEVROLET,ONIX PLUS,10TMT LTZ,1.0T - 12 V,Combustão,F,46.0,1.44,,A
+Médio,CHEVROLET,SPIN,1.8L AT LS,1.8L -8V,Combustão,F,30.0,1.94,,E
+Médio,CHEVROLET,SPIN,1.8L AT LT,1.8L -8V,Combustão,F,30.0,1.94,,E
+Médio,CHEVROLET,SPIN,1.8L AT ACT,1.8L -8V,Combustão,F,33.0,2.02,,E
+Médio,CHEVROLET,SPIN,1.8L AT LTZ5,1.8L -8V,Combustão,F,33.0,2.02,,E
+Médio,CHEVROLET,SPIN,1.8L MT LS E,1.8L-8V,Combustão,F,52.0,1.87,,D
+Médio,CHEVROLET,SPIN,1.8L MT LT,1.8L-8V,Combustão,F,52.0,1.87,,D
+Médio,CHEVROLET,SPIN,1.8L MT LT (MY25),1.8L-8V,Combustão,F,39.0,1.87,,D
+Médio,CHEVROLET,SPIN,1.8L AT LT (MY25),1.8L-8V,Combustão,F,35.0,1.87,,D
+Médio,FIAT,CRONOS,1.0,1.0-6V,Combustão,F,39.0,1.47,,A
+Médio,FIAT,CRONOS,DRIVE 1.0,1.0-6V,Combustão,F,39.0,1.47,,A
+Médio,FIAT,CRONOS,DRIVE 1.3,1.3-8V,Combustão,F,33.0,1.53,,A
+Médio,FIAT,CRONOS,PREC 1.3AT,1.3-8V,Combustão,F,26.0,1.5,,A
+Médio,FIAT,CRONOS,DRIVE1.3AT,1.3-8V,Combustão,F,26.0,1.5,,A
+Médio,GWM,ORA 03,GT BEV63,Elétrico,Elétrico,E,,0.51,319.0,A
+Médio,GWM,ORA 03,SKIN BEV48,Elétrico,Elétrico,E,,0.52,232.0,A
+Médio,HONDA,CITY,LX,1.5-16V,Combustão,F,20.0,1.53,,A
+Médio,HONDA,CITY,EX,1.5-16V,Combustão,F,20.0,1.53,,A
+Médio,HONDA,CITY,EXL,1.5-16V,Combustão,F,20.0,1.53,,A
+Médio,HONDA,CITY,TOURING,1.5-16V,Combustão,F,20.0,1.53,,A
+Médio,HONDA,CITY HATCH,LX,1.5-16V,Combustão,F,23.0,1.53,,A
+Médio,HONDA,CITY HATCH,EX,1.5-16V,Combustão,F,23.0,1.53,,A
+Médio,HONDA,CITY HATCH,EXL,1.5-16V,Combustão,F,23.0,1.53,,A
+Médio,HONDA,CITY HATCH,TOURING,1.5-16V,Combustão,F,23.0,1.53,,A
+Médio,HONDA,HR-V,EX HONDA SENSING,1.5-16V,Combustão,F,31.0,1.62,,B
+Médio,HONDA,HR-V,EXL HONDA SENSING,1.5-16V,Combustão,F,31.0,1.62,,B
+Médio,HONDA,HR-V,ADVANCE,1.5T-16V,Combustão,F,37.0,1.83,,D
+Médio,HONDA,HR-V,TOURING,1.5T-16V,Combustão,F,37.0,1.83,,D
+Médio,HONDA,HR-V (mod.25),ADVANCE,1.5T-16V,Combustão,F,32.0,1.78,,C
+Médio,HONDA,HR-V (mod.25),TOURING,1.5T-16V,Combustão,F,32.0,1.78,,C
+Médio,HYUNDAI,IONIQ,HEV,1.6 -16V,Híbrido,G,20.0,1.09,,A
+Médio,HYUNDAI,TUCSON TURBO,GLS,1.6T -16V,Combustão,G,19.0,1.93,,E
+Médio,HYUNDAI,TUCSON TURBO,LTD,1.6T -16V,Combustão,G,19.0,1.93,,E
+Médio,HYUNDAI,KONA HEV,HEV GLS,1.6 -16V,Híbrido,G,24.0,1.11,,A
+Médio,HYUNDAI,KONA HEV,HEV LTD,1.6 -16V,Híbrido,G,24.0,1.11,,A
+Médio,HYUNDAI,KONA EV,EV39,Elétrico,Elétrico,E,,0.44,252.0,A
+Médio,Hyundai,HB20S,Comfort,1.0-12V,Combustão,F,22.0,1.52,,A
+Médio,Hyundai,HB20S,Limited,1.0-12V,Combustão,F,22.0,1.52,,A
+Médio,Hyundai,HB20S,Platinum,1.0-12V,Combustão,F,22.0,1.52,,A
+Médio,Hyundai,HB20S,Comfort,1.0-12V T,Combustão,F,22.0,1.53,,A
+Médio,Hyundai,HB20S,Comfort,1.0-12V T,Combustão,F,31.0,1.7,,C
+Médio,Hyundai,HB20S,Platinum,1.0-12V T,Combustão,F,31.0,1.7,,C
+Médio,Hyundai,HB20S,Sense,1.0-12V T,Combustão,F,31.0,1.7,,C
+Médio,Hyundai,HB20S,Platinum Smart Sense,1.0-12V T,Combustão,F,31.0,1.7,,C
+Médio,Hyundai,HB20S,Platinum Safety,1.0-12V T,Combustão,F,31.0,1.7,,C
+Médio,Hyundai,HB20S,Platinum Safety,1.0-12V T,Combustão,F,29.0,1.6,,B
+Médio,Hyundai,HB20S,Platinum Plus,1.0-12V T,Combustão,F,29.0,1.6,,B
+Médio,Hyundai,HB20S,Comfort (25MY),1.0-12V T,Combustão,F,21.0,1.62,,B
+Médio,Hyundai,HB20S,Platinum Plus,1.0-12V T,Combustão,F,29.0,1.6,,B
+Médio,Hyundai,HB20S,Platinum Safety,1.0-12V T,Combustão,F,29.0,1.6,,B
+Médio,Hyundai,HB20S,Comfort (25MY),1.0-12V,Combustão,F,13.0,1.49,,A
+Médio,Hyundai,HB20S,Limited (25MY),1.0-12V,Combustão,F,13.0,1.49,,A
+Médio,Hyundai,HB20S,Comfort (25MY),1.0-12V T,Combustão,F,31.0,1.51,,A
+Médio,Hyundai,HB20S,Platinum Safety (25MY),1.0-12V T,Combustão,F,31.0,1.51,,A
+Médio,JAC,e-JS4,e-JS4,Elétrico,Elétrico,E,,0.47,307.0,A
+Médio,KIA,STONIC,MHEV EX,1.0 - 12V,Híbrido,G,39.0,1.55,,B
+Médio,KIA,STONIC,MHEV  LX,1.0 - 12V,Híbrido,G,39.0,1.55,,B
+Médio,KIA,STONIC,MHEV  SX,1.0 - 12V,Híbrido,G,39.0,1.55,,B
+Médio,KIA,STONIC,MHEV  GT,1.0 - 12V,Híbrido,G,39.0,1.55,,B
+Médio,Mercedes-Benz,AMG A35 4MATIC,,2.0-16V,Combustão,G,35.0,2.25,,E
+Médio,Mercedes-Benz,A200 AMG LINE,,1.3-16V,Híbrido,G,18.0,1.63,,B
+Pequeno,FIAT,Mobi,,,,,120.0,1.1,,
+Grande,TOYOTA,Hilux,,,,,250.0,2.5,,
+Luxo,MERCEDES,S-Class,,,,,300.0,3.2,,

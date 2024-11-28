@@ -1,0 +1,36 @@
+1. Previsão de Consumo de Energia Fóssil  
+    Endpoint: `/api/prever_consumo`  
+    Método: `POST`  
+    Descrição: Este endpoint recebe a porcentagem de energia renovável como entrada e retorna a previsão de consumo de energia fóssil.
+  
+    Parâmetros:  
+      - `energia_renovavel` (float) - Percentual de energia renovável adotada.  
+    Exemplo de Resposta:
+      {"previsao_consumo": valor}
+
+
+2. Classificação de Regiões por Eficiência Energética 
+    Endpoint: `/api/prever_classificacao`  
+    Método: `POST`  
+    Descrição: Este endpoint classifica uma região como Baixo, Médio ou Alto com base nas variáveis de eficiência energética.  
+    
+    Parâmetros:
+      - `energia_por_pib` (float) - Consumo de energia por unidade de PIB.  
+      - `energia_renovavel` (float) - Percentual de energia renovável.  
+    Exemplo de Resposta:
+      {"classificacao": "Médio"}
+
+
+3. Clusterização para Adoção de Tecnologias Limpas
+    Endpoint: `/api/prever_cluster`  
+    Método: `POST`  
+    Descrição: Recebe dados relacionados ao uso de fontes de energia e classifica o setor/região em clusters de adoção de tecnologias limpas.
+
+    Parâmetros:  
+      - `energia_solar` (float) - Percentual de energia solar.  
+      - `energia_eolica` (float) - Percentual de energia eólica.  
+      - `biocombustivel` (float) - Percentual de biocombustível.  
+      - `energia_per_capita` (float) - Consumo de energia per capita.  
+      - `fossil_per_capita` (float) - Consumo de energia fóssil per capita.  
+    Exemplo de Resposta:
+      {"cluster": 0}
